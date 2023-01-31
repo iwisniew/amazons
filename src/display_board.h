@@ -1,0 +1,6 @@
+#ifndef DISPLAY_BOARD_H_INCLUDED
+#define DISPLAY_BOARD_H_INCLUDED
+
+void display_board();
+
+#endif // DISPLAY_BOARD_H_INCLUDED
